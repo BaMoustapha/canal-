@@ -1,0 +1,308 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: black;
+    color: white;
+}
+
+
+
+.div2{
+    height: 400px;
+}
+
+.img2{
+    height: 70%;
+
+}
+
+a .nav-link:hover {
+color: red;
+}
+
+.div1{
+    height: 200px;
+    background: url('../img/myCANAL-ALD_MEA_Pivot_16x9_1920x1080 (1).webp') no-repeat center;
+    background-size: cover;
+    display: flex;
+}
+
+.div2{
+    height: 427px;
+    background: url('../img/myCANAL-ALD_MEA_Pivot_16x9_Logotype_1920x1080_OASIS.webp') no-repeat center;
+    background-size: cover;
+    display: flex;
+  
+}
+
+.div3{
+  height: 427px;
+  background: url('../img/109264354.webp') no-repeat center;
+  background-size: cover;
+  display: flex;
+
+}
+
+.div4{
+  height: 200px;
+  background: url('../img/myCANAL-ALD_MEA_Pivot_16x9_1920x1080 (2).webp') no-repeat center;
+  background-size: cover;
+  display: flex;
+  
+}
+
+.div5{
+  height: 200px;
+  background: url('../img/109305716.webp') no-repeat center;
+  background-size: cover;
+  display: flex;
+
+}
+
+.div6{
+  height: 427px;
+  background: url('../img/108955591.webp') no-repeat center;
+  background-size: cover;
+  display: flex;
+  
+}
+
+.ba1{
+  height: 200px;
+  background: url('../img/myCANAL-ALD_MEA_Pivot_16x9_Fiche_Programme_1920x1080.webp') no-repeat center;
+  background-size: cover;
+  display: flex;
+  
+}
+
+.ba2{
+  height: 427px;
+  background: url('../img/myCANAL_MEA_Jaquette_Fiche_Programme_1242x1656_NBA.webp') no-repeat center;
+  background-size: cover;
+  display: flex;
+
+}
+
+.ba3{
+height: 427px;
+background: url('../img/myCANAL_MEA_Jaquette_Fiche_Programme_1242x1656_LDC.webp') no-repeat center;
+background-size: cover;
+display: flex;
+
+}
+
+.ba4{
+height: 200px;
+background: url('../img/myCANAL-ALD_MEA_Pivot_16x9_Fiche_Programme_1920x1080 (1).webp') no-repeat center;
+background-size: cover;
+display: flex;
+
+}
+
+.ba5{
+height: 200px;
+background: url('../img/myCANAL-ALD_MEA_Pivot_16x9_Fiche_Programme_1920x1080-4.webp') no-repeat center;
+background-size: cover;
+display: flex;
+
+}
+
+.ba6{
+height: 427px;
+background: url('../img/myCANAL_MEA_Jaquette_Fiche_Programme_1242x1656_PL.webp') no-repeat center;
+background-size: cover;
+display: flex;
+
+}
+
+.dia1{
+  height: 200px;
+  background: url('../img/myCANAL-ALD_MEA_Pivot_16x9_1920x1080.webp') no-repeat center;
+  background-size: cover;
+  display: flex;
+  
+}
+
+.dia2{
+  height: 427px;
+  background: url('../img/myCANAL_MEA_Jaquette_Fiche_Programme_1242x1656.webp') no-repeat center;
+  background-size: cover;
+  display: flex;
+
+}
+
+.dia3{
+height: 427px;
+background: url('../img/109716602.webp') no-repeat center;
+background-size: cover;
+display: flex;
+
+}
+
+.dia4{
+height: 200px;
+background: url('../img/canal1.webp') no-repeat center;
+background-size: cover;
+display: flex;
+
+}
+
+.dia5{
+height: 200px;
+background: url('../img/103563279.webp') no-repeat center;
+background-size: cover;
+display: flex;
+
+}
+
+.dia6{
+height: 427px;
+background: url('../img/108663004.webp') no-repeat center;
+background-size: cover;
+display: flex;
+
+}
+
+
+.part2{
+    position: relative;
+    background: url('../img/myCANAL-ALD_MEA_Pivot_16x9_1920x10809.webp') no-repeat center;
+    background-size: cover;
+    height: 200px;
+    
+}
+
+.part3{
+  position: relative;
+  background: url('../img/myCANAL-ALD_MEA_Pivot_16x9_Fiche_Programme_1920x1080_L1.webp') no-repeat center;
+  background-size: cover;
+  height: 200px;
+  
+}
+
+.part4{
+  position: relative;
+  background: url('../img/109733503.webp') no-repeat center;
+  background-size: cover;
+  height: 200px;
+  
+}
+
+.content{
+  position: relative;
+  display: flex;
+  margin-left: 10px;
+  justify-content: left;
+  align-items: last baseline;
+}
+
+.content p{
+  font-size: 19px;
+  font-weight: bolder;
+  margin-bottom: 5px;
+}
+
+.content img{
+  width: 40px;
+  height: 15px;
+  margin-top: 10px;
+}
+
+
+.ba{
+  background-color: rgba(24, 23, 23, 0);;
+}
+
+span{
+  font-size: 19px;
+  font-weight: bolder;
+  margin-bottom: 5px;
+}
+
+.sow{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  left: 20px;
+  bottom: 0px;
+}
+
+.sow img{
+    
+    width: 80px;
+    height: 20px;
+}
+.dia{
+  margin-top: 250px;
+}
+
+i .bi .bi-person{
+    font-size: 50px;
+    height: 40px;
+}
+  
+  
+
+  footer{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+footer li{
+    list-style-type: none;
+}
+
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: baseline;
+    margin-bottom: 50px;
+}
+
+#section8 .row{
+  background: url('../img/MYCANAL_Lame_Mob_Mosaique_Showcase_1920x1080_V2.webp') no-repeat center;
+  background-size: cover;
+  min-height: 700px;
+
+}
+  
+ 
+  
+  /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    
+
+    .ratio{
+      height: 600px;
+    }
+
+    .navbar-logo img{
+      width:35%;
+    }
+
+    .nav2{
+      position: relative;
+      display: flex;
+      flex-direction: row;
+      gap: 10px;
+      bottom: 168px;
+      right: 50px;
+    }
+
+    .dia{
+      margin-top: 10px;
+    }
+  }
